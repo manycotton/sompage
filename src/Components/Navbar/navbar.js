@@ -14,7 +14,7 @@ export const Navbar = (props) => {
             <a className='navBtn' href='#aboutme'><span>About Me</span></a>
             <a className='navBtn' href='#projects'><span>Projects</span></a>
             <a className='navBtn' href='#publications'><span>Publications</span></a>
-            <a className='navBtn' href='papers/Love.pdf'><span>CV</span></a>
+            <a className='navBtn' href='papers/CV_DasomChoi.pdf'><span>CV</span></a>
         </div>
     </div>
     </>
